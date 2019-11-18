@@ -22,6 +22,7 @@ layout: default
             <li class="list-group-item"><a href="./07">[2019.10.23]</a></li>
             <li class="list-group-item"><a href="./08">[2019.10.30]</a></li>
             <li class="list-group-item"><a href="./09">[2019.11.06]</a></li>
+            <li class="list-group-item"><a href="./10">[2019.11.13]</a></li>
             <li class="list-group-item">Slow Start</li>
           </ul>
     </div>
@@ -45,6 +46,7 @@ layout: default
         여덟번째 수업 입니다. <a href="./08">[이동]</a><br>
         2019.11.06 :
         아홉번째 수업 입니다. <a href="./09">[이동]</a><br>
+        열번째 수업 입니다. <a href="./10">[이동]</a><br>
         
    </div>
   </div>
